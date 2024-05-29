@@ -1,0 +1,3 @@
+Exemplo de histórico de versionamento
+
+- Inserindo linha inicial (Commit 1)
